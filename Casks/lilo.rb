@@ -1,6 +1,6 @@
 cask "lilo" do
-  version "0.12.0"
-  sha256 "7f56a124bddc3963e91dcf6d0894a48e1746dc8819c7e53d6ae3671e6e1810cd"
+  version "0.13.0"
+  sha256 "c8d3ece87fcee0422eaaad3511ab1f918808e91489bf58b617996d56c2c3d942"
 
   url "https://github.com/Alexays/Lilo/releases/download/v#{version}/Lilo.dmg"
   name "Lilo"
